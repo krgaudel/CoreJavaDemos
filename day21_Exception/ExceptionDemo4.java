@@ -1,6 +1,6 @@
 package day21_Exception;
 
-
+// use of finally
 import java.util.Scanner;
 
 public class ExceptionDemo4 {
