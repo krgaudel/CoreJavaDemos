@@ -1,5 +1,5 @@
 package practice;
-
+just for practice purpose
 import demos.StaticDemo;
 import demos.NonStaticDemo;
 
